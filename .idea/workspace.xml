@@ -4,11 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02f0804-bac7-405b-8d72-0871aa1510db" name="Changes" comment="" />
+    <list default="true" id="b02f0804-bac7-405b-8d72-0871aa1510db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/ForgotPasswordScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/LoginScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/RegisterScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/ResetPasswordScreen.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/VerifyCodeScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/WelcomeScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/app/(tabs)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/app/(tabs)/explore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/app/(tabs)/explore.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/app/+not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/app/+not-found.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/Collapsible.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/Collapsible.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ExternalLink.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ExternalLink.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/HapticTab.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/HapticTab.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/HelloWave.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/HelloWave.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ParallaxScrollView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ParallaxScrollView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ThemedText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ThemedText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ThemedView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ThemedView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/__tests__/ThemedText-test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/__tests__/ThemedText-test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/__tests__/__snapshots__/ThemedText-test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/__tests__/__snapshots__/ThemedText-test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ui/IconSymbol.ios.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ui/IconSymbol.ios.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ui/IconSymbol.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ui/IconSymbol.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ui/TabBarBackground.ios.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ui/TabBarBackground.ios.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ui/TabBarBackground.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ui/TabBarBackground.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online_marketplace/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +64,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2so9YvKVSTE3CmgybiVzHMA8DNU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,14 +84,15 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\MOBILE\\REACT NATIVE\\LEARNING PROJECTS\\online-marketplace-frontend\\online_marketplace\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
       </set>
     </attachedChunks>
   </component>
@@ -70,7 +109,9 @@
       <workItem from="1739725828496" duration="1164000" />
       <workItem from="1739784197758" duration="131000" />
       <workItem from="1739809598856" duration="2135000" />
-      <workItem from="1739811797156" duration="620000" />
+      <workItem from="1739811797156" duration="1396000" />
+      <workItem from="1739882639292" duration="250000" />
+      <workItem from="1739883007816" duration="49000" />
     </task>
     <servers />
   </component>
