@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02f0804-bac7-405b-8d72-0871aa1510db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/ForgotPasswordScreen.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/LoginScreen.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/RegisterScreen.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/ResetPasswordScreen.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/VerifyCodeScreen.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/online_marketplace/screens/auth/WelcomeScreen.tsx" afterDir="false" />
+    <list default="true" id="b02f0804-bac7-405b-8d72-0871aa1510db" name="Changes" comment="remove">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/app/(tabs)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/app/(tabs)/_layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/app/(tabs)/explore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/app/(tabs)/explore.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/app/(tabs)/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/app/+not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/app/+not-found.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/Collapsible.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/Collapsible.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ExternalLink.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ExternalLink.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/HapticTab.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/HapticTab.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/HelloWave.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/HelloWave.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ParallaxScrollView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ParallaxScrollView.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ThemedText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ThemedText.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ThemedView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ThemedView.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/__tests__/ThemedText-test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/__tests__/ThemedText-test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/__tests__/__snapshots__/ThemedText-test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/__tests__/__snapshots__/ThemedText-test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ui/IconSymbol.ios.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ui/IconSymbol.ios.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ui/IconSymbol.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ui/IconSymbol.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ui/TabBarBackground.ios.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ui/TabBarBackground.ios.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/components/ui/TabBarBackground.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/components/common/ui/TabBarBackground.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online_marketplace/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/online_marketplace/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +50,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/MOBILE/REACT NATIVE/LEARNING PROJECTS/online-marketplace-frontend&quot;,
@@ -112,10 +88,25 @@
       <workItem from="1739811797156" duration="1396000" />
       <workItem from="1739882639292" duration="250000" />
       <workItem from="1739883007816" duration="49000" />
+      <workItem from="1739893344748" duration="2050000" />
+      <workItem from="1739896587538" duration="394000" />
     </task>
+    <task id="LOCAL-00001" summary="remove">
+      <option name="closed" value="true" />
+      <created>1739893933767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739893933767</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove" />
   </component>
 </project>
